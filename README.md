@@ -1,4 +1,4 @@
-# Car-Preference
+# Factors impacting Car sales
 ------------------
 
 This is an analysis of the kind of cars people prefer to buy. The dataset includes features like year of make, type of fuel, transmission etc. which decides the
